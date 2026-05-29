@@ -10,6 +10,8 @@ const PUBLIC_FIELDS = [
   'email',
   'settings',
   'profile',
+  'plan',
+  'status',
   'created_at',
 ].join(', ')
 
